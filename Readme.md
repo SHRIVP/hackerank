@@ -1,1 +1,1 @@
-This repository was ceated to store the solutions for Hackerank AI Challenges
+This repository was ceated to store the solutions for Hackerank and Leetcode Challenges
